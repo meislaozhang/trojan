@@ -11,12 +11,6 @@
 - 2019-11-27 2.1 发布，恢复更新,升级trojan到1.13.0，添加删除trojan功能
 
 
-
-## 国外VPS服务器推荐:
-- 搬瓦工：http://bit.ly/2FHfp4m
-- 数字海洋：http://bit.ly/2uCIffL
-- hostdare：http://bit.ly/2Oyo8IO
-
 ---
 # 安装命令：
 >正式版脚本： wget -N --no-check-certificate https://raw.githubusercontent.com/mark-logs-code-hub/trojan-wiz/master/ins.sh && chmod +x ins.sh && sudo bash  ins.sh
