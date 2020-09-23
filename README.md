@@ -13,7 +13,7 @@
 
 ---
 # 安装命令：
->正式版脚本： wget -N --no-check-certificate https://raw.githubusercontent.com/mark-logs-code-hub/trojan-wiz/master/ins.sh && chmod +x ins.sh && sudo bash  ins.sh
+>正式版脚本： wget -N --no-check-certificate https://raw.githubusercontent.com/meislaozhang/trojan/master/ins.sh && chmod +x ins.sh && sudo bash  ins.sh
 
 ---
 支持的系统：
