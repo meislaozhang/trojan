@@ -28,9 +28,3 @@
 - centos 7+
 - centos 8
 - RHEL 7+
-
-
-# 给作者一些改进和升级这个脚本的动力：
-![Image text](https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/images/1.jpg)
-![Image text](https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/images/2.jpg)
-![Image text](https://raw.githubusercontent.com/mark-hans/trojan-wiz/master/images/3.jpg)
